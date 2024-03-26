@@ -7,17 +7,17 @@ This repository contains three HTML and CSS templates created on 26/03/2024.
 ### Template 1: 
 
 - **Preview:**
-- ![Image Alt Text](layout1.png)
+![Image Alt Text](layout1.png)
 
 ### Template 2: [Template Name 2]
 
 - **Preview:**
-- ![Image Alt Text](layout2.png)
+![Image Alt Text](layout2.png)
 
 ### Template 3: [Template Name 3]
 
 - **Preview:**
-- ![Image Alt Text](layout3.png)
+![Image Alt Text](layout3.png)
 
 ## Usage
 
